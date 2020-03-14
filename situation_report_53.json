@@ -1,9 +1,8 @@
 [{
-  country: Japan,
-  cases_total: 675,
-  cases_new: 55,
-  deaths_total: 66,
-  deaths_new: 4,
-  days_since_last_reported:0
-  date: 13.march
+  "country":"Japan",
+  "cases_total":675,
+  "cases_new":55,
+  "deaths_total":66,
+  "deaths_new":4,
+  "days_since_last_reported":0
 }]
